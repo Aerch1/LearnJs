@@ -34,15 +34,15 @@ Focus: Variables, data types, loops, conditionals, arrays, functions.
 
 - [x] Find the maximum of three numbers
 
-Sum of natural numbers (1 to n)
+- [x] Sum of natural numbers (1 to n)
 
-Print multiplication table of a number
+- [x] Print multiplication table of a number
 
-Check if a character is vowel or consonant
+- [x] Check if a character is vowel or consonant
 
-Reverse a string
+- [x] Reverse a string
 
-Check for palindrome string
+- [x] Check for palindrome string
 
 ✅ Arrays & Loops (11–20)
 Find max and min in an array
