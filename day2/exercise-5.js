@@ -1,4 +1,4 @@
-// Check for palindrome string
+// Check for palindrome string;
 
 let word = "rotator";
 let word1 = word.toLowerCase();
