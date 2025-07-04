@@ -1,179 +1,176 @@
 # 💯 100 Exercises Challenge: Learn Coding Fundamentals
 
-I’m taking on a challenge to complete 100 coding exercises, categorized into Beginner, Intermediate, and Advanced levels.
+I'm taking on a challenge to complete 100 coding exercises, structured into weekly topics and daily sets to build mastery step by step.
 
-- 🔧 Tools: JavaScript (or language of choice), Git, GitHub
-- 🤖 Help: Online resources & AI
-- 📆 Progress: Logged daily
-- 📂 Each exercise is committed in folders, pushed daily.
-
----
-
-## 📅 Progress Tracker
-
-### ✅ Day 1 (July 1, 2025)
-
-- [x] Exercise 1: Hello World
-- [x] Exercise 2: Swap Variables
-- [x] Exercise 3: Celsius to Fahrenheit
-- [x] Exercise 4: Even or Odd
-- [x] Exercise 5: Max of Three Numbers
-
-### ✅ Day 2 (July 2, 2025)
-
-- [x] Exercise 6: Sum of natural numbers (1 to n)
-- [x] Exercise 7: Print multiplication table of a number
-- [x] Exercise 8: Check if a character is vowel or consonant
-- [x] Exercise 9: Reverse a string
-- [x] Exercise 10: Check for palindrome string
+- 🔧 Tools: JavaScript (or language of choice), Git, GitHub  
+- 🤖 Help: Online resources & AI  
+- 📆 7 Days/Week, 5 Exercises per Day  
+- 📂 All code committed daily and organized by folders  
 
 ---
 
-## 🟢 Beginner (1–40)
+## 📅 Weekly Topics
 
-_Focus: Variables, data types, loops, conditionals, arrays, functions._
+### ✅ Week 1: Basics & Syntax (1–35)
 
-### ✅ Basics & Syntax (1–10)
+> Master variables, data types, I/O, and simple logic.
 
-- [x] Hello World program
-- [x] Swap two variables
-- [x] Convert Celsius to Fahrenheit
-- [x] Check if a number is even or odd
-- [x] Find the maximum of three numbers
-- [x] Sum of natural numbers (1 to n)
-- [x] Print multiplication table of a number
-- [x] Check if a character is vowel or consonant
-- [x] Reverse a string
-- [x] Check for palindrome string
+**Day 1**  
+- [x] Hello World  
+- [x] Swap two variables  
+- [x] Celsius to Fahrenheit  
+- [x] Even or Odd  
+- [x] Max of Three Numbers  
 
-### ✅ Arrays & Loops (11–20)
+**Day 2**  
+- [x] Sum of numbers (1 to n)  
+- [x] Multiplication table  
+- [x] Vowel or consonant  
+- [x] Reverse a string  
+- [x] Check palindrome  
 
-- [x] Find max and min in an array
-- [x] Count even and odd numbers in an array
-- [x] Sum and average of array elements
-- [x] Merge two arrays
-- [x] Remove duplicates from an array
-- [x] Sort array in ascending order
-- [ ] Search an element in array
-- [ ] Count frequency of elements in array
-- [ ] Rotate array left by n positions
-- [ ] Find second largest number in array
+**Day 3**  
+- [x] Find max and min in an array  
+- [x] Count even and odd numbers in an array  
+- [x] Sum and average of array elements  
+- [x] Merge two arrays  
+- [x] Remove duplicates from an array  
+- [x] Sort array in ascending order  
 
-### ✅ Strings & Functions (21–30)
+**Day 4**  
+- [x] Search an element in array  
+- [x] Count frequency of elements in array  
+- [x] Rotate array left by n  
+- [x] Find second largest number in array  
+- [ ] Capitalize each word in string  
 
-- [ ] Capitalize first letter of each word
-- [ ] Count vowels and consonants in string
-- [ ] Count words in a sentence
-- [ ] Remove all white spaces from string
-- [ ] Find duplicate characters in string
-- [ ] Check if two strings are anagrams
-- [ ] Generate all substrings of a string
-- [ ] Check if string contains only digits
-- [ ] Implement your own `split()` function
-- [ ] Return index of first occurrence of character
+**Day 5**  
+- [ ] Count vowels and consonants  
+- [ ] Word count in a sentence  
+- [ ] Remove whitespace  
+- [ ] Check for duplicate characters  
+- [ ] Anagram checker  
 
-### ✅ Logic & Conditionals (31–40)
+**Day 6**  
+- [ ] Generate all substrings  
+- [ ] String contains only digits  
+- [ ] Custom `split()` function  
+- [ ] First occurrence of character  
+- [ ] Palindrome with functions  
 
-- [ ] Leap year checker
-- [ ] Prime number checker
-- [ ] Factorial of a number
-- [ ] Fibonacci sequence generator
-- [ ] GCD of two numbers
-- [ ] LCM of two numbers
-- [ ] Armstrong number checker
-- [ ] Perfect number checker
-- [ ] Binary to Decimal converter
-- [ ] Decimal to Binary converter
-
----
-
-## 🟡 Intermediate (41–80)
-
-_Focus: Data structures, recursion, file I/O, API calls, error handling._
-
-### ✅ Data Structures (41–50)
-
-- [ ] Implement a stack using arrays
-- [ ] Implement a queue using arrays
-- [ ] Reverse a linked list
-- [ ] Find middle of a linked list
-- [ ] Detect loop in a linked list
-- [ ] Implement a basic HashMap
-- [ ] Infix to Postfix conversion
-- [ ] Evaluate Postfix expression
-- [ ] Balanced parentheses checker
-- [ ] Find common elements in two arrays
-
-### ✅ Recursion & Algorithms (51–60)
-
-- [ ] Recursive factorial
-- [ ] Recursive Fibonacci
-- [ ] Binary search (recursive + iterative)
-- [ ] Tower of Hanoi
-- [ ] Merge sort
-- [ ] Quick sort
-- [ ] Bubble sort
-- [ ] Count digits in number recursively
-- [ ] Find power of a number recursively
-- [ ] Check if array is sorted recursively
-
-### ✅ File Handling & APIs (61–70)
-
-- [ ] Read file and print line by line
-- [ ] Count number of words in a file
-- [ ] Replace text in a file
-- [ ] JSON read/write with file
-- [ ] Fetch API data from public API (e.g., PokéAPI)
-- [ ] Display joke from API
-- [ ] Convert API JSON to CSV format
-- [ ] Save user input to a text file
-- [ ] Create and read CSV file
-- [ ] Create a basic note-taking CLI app
-
-### ✅ Practical Small Projects (71–80)
-
-- [ ] Tip calculator
-- [ ] BMI calculator
-- [ ] Number guessing game
-- [ ] Rock-Paper-Scissors game
-- [ ] Basic stopwatch using time functions
-- [ ] To-do list CLI app
-- [ ] Simple calculator (add, subtract, multiply, divide)
-- [ ] Hangman game
-- [ ] Currency converter using exchange API
-- [ ] Command line quiz game
+**Day 7**  
+- [ ] Sum of array using function  
+- [ ] Check prime with function  
+- [ ] Recursive factorial  
+- [ ] Recursive Fibonacci  
+- [ ] String reverse with recursion  
 
 ---
 
-## 🔴 Advanced (81–100)
+### 🟡 Week 2: Logic, Recursion, & Math (36–70)
 
-_Focus: OOP, algorithms, real-world apps, testing, Git workflows._
+> Focused logic problems, recursion, math conversions.
 
-### ✅ OOP Concepts & Projects (81–90)
+**Day 8**  
+- [ ] Count words recursively  
+- [ ] Length of string without `.length`  
+- [ ] Compare two strings  
+- [ ] Replace character in string  
+- [ ] Trim custom whitespace  
 
-- [ ] Class to represent a Bank Account
-- [ ] Library system (borrow/return books)
-- [ ] Simple Inventory Management system
-- [ ] Contact manager with CRUD operations
-- [ ] Vehicle class inheritance structure
-- [ ] Student Grading system using classes
-- [ ] Employee payroll system
-- [ ] Implement a custom Exception class
-- [ ] File-based task tracker (CRUD with persistence)
-- [ ] Parking lot simulation with OOP
+**Day 9**  
+- [ ] Print even numbers in range  
+- [ ] Print odd numbers in range  
+- [ ] GCD of two numbers  
+- [ ] LCM of two numbers  
+- [ ] Armstrong number checker  
 
-### ✅ Algorithms & Challenges (91–95)
+**Day 10**  
+- [ ] Factorial  
+- [ ] Count digits in number  
+- [ ] Prime number checker  
+- [ ] Perfect number checker  
+- [ ] Palindrome number checker  
 
-- [ ] Dijkstra’s algorithm
-- [ ] Depth-First Search (DFS)
-- [ ] Breadth-First Search (BFS)
-- [ ] N-Queens problem
-- [ ] Solve Sudoku using backtracking
+**Day 11**  
+- [ ] Fibonacci (loop)  
+- [ ] Fibonacci (recursive)  
+- [ ] Binary search (iterative)  
+- [ ] Binary search (recursive)  
+- [ ] Linear search  
 
-### ✅ Final Projects (96–100)
+**Day 12**  
+- [ ] Merge sort  
+- [ ] Quick sort  
+- [ ] Bubble sort  
+- [ ] Selection sort  
+- [ ] Insertion sort  
 
-- [ ] Build a mini blog site (CLI-based with file storage)
-- [ ] Create a GitHub profile README generator (from user input)
-- [ ] Markdown to HTML converter
-- [ ] Build a basic REST API client using fetch
-- [ ] Version control simulator (commit log & branches mock-up)
+**Day 13**  
+- [ ] Tower of Hanoi  
+- [ ] Count digits recursively  
+- [ ] Power recursively  
+- [ ] Check if array is sorted  
+- [ ] Reverse array recursively  
+
+**Day 14**  
+- [ ] Print Pascal’s Triangle  
+- [ ] Nth Fibonacci term  
+- [ ] Sum of digits recursively  
+- [ ] Palindrome recursively  
+- [ ] Armstrong with recursion  
+
+---
+
+### 🟠 Week 3: Data Structures (71–105)
+
+> Implement basic data structures manually.
+
+**Day 15**  
+- [ ] Implement a stack using arrays  
+- [ ] Implement a queue using arrays  
+- [ ] Reverse a linked list  
+- [ ] Find middle of a linked list  
+- [ ] Detect loop in a linked list  
+
+**Day 16**  
+- [ ] Implement a basic HashMap  
+- [ ] Infix to Postfix conversion  
+- [ ] Evaluate Postfix expression  
+- [ ] Balanced parentheses checker  
+- [ ] Find common elements in two arrays  
+
+**Day 17**  
+- [ ] Decimal to Binary  
+- [ ] Binary to Decimal  
+- [ ] Decimal to Octal  
+- [ ] Octal to Decimal  
+- [ ] Decimal to Hex  
+
+**Day 18**  
+- [ ] Add two complex numbers (object form)  
+- [ ] Fahrenheit to Celsius  
+- [ ] Power of a number  
+- [ ] Cube of a number  
+- [ ] Square root  
+
+**Day 19**  
+- [ ] Leap year checker  
+- [ ] Convert hours to minutes  
+- [ ] Simple interest calculator  
+- [ ] Area of a triangle  
+- [ ] Calculate percentage  
+
+**Day 20**  
+- [ ] Average of 3 numbers  
+- [ ] Convert kilometers to miles  
+- [ ] Number is positive, negative, or zero  
+- [ ] Divisible by 5 and 11  
+- [ ] Length of object keys  
+
+**Day 21**  
+- [ ] Repeat a string n times  
+- [ ] Title case a sentence  
+- [ ] Join array into string  
+- [ ] Convert string to array  
+- [ ] Count numeric characters in string  

@@ -2,7 +2,7 @@ let num = [7, 31, 3, 19, 80, 78, 43];
 let getNum = 0;
 
 for (let i = 0; i < num.length; i++) {
-  getNum += num[i];
+  getNum += i;
 }
 
 let findavg = getNum / num.length;
