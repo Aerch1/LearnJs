@@ -42,13 +42,13 @@ I'm taking on a challenge to complete 100 coding exercises, structured into week
 - [x] Count frequency of elements in array  
 - [x] Rotate array left by n  
 - [x] Find second largest number in array  
-- [ ] Capitalize each word in string  
+- [x] Capitalize each word in string  
 
 **Day 5**  
-- [ ] Count vowels and consonants  
-- [ ] Word count in a sentence  
-- [ ] Remove whitespace  
-- [ ] Check for duplicate characters  
+- [x] Count vowels and consonants  
+- [x] Word count in a sentence  
+- [x] Remove whitespace  
+- [x] Check for duplicate characters  
 - [ ] Anagram checker  
 
 **Day 6**  
