@@ -58,11 +58,11 @@ I'm taking on a challenge to complete 100 coding exercises, structured into week
 
 **Day 6**
 
-- [ ] Generate all substrings
-- [ ] String contains only digits
-- [ ] Custom `split()` function
-- [ ] First occurrence of character
-- [ ] Palindrome with functions
+- [x] Generate all substrings
+- [x] String contains only digits
+- [x] Custom `split()` function
+- [x] First occurrence of character
+- [x] Palindrome with functions
 
 **Day 7**
 
